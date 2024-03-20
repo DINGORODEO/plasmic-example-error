@@ -1,5 +1,5 @@
 import { PLASMIC } from "@/plasmic-init"
-import { PlasmicClientRootProvider } from "@/app/plasmic-init-client"
+import { PlasmicClientRootProvider } from "@/plasmic-init-client"
 import { PlasmicComponent } from "@plasmicapp/loader-nextjs"
 
 export default async function Footer() {
